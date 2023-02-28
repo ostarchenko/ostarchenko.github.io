@@ -1,7 +1,7 @@
 
   "use strict";
   var showDebug = !1, partyId = "cHVzaGJyb3dzZTo6Q2hHNkxuQg==", uiServerUrl = window.location.origin + "/js",
-    apiServerUrl = "https://daailynews.com", swScope = window.location.origin + "",
+    apiServerUrl = "https://daailynews.com", swScope = window.location.origin + "/",
     customWorkerJS = "service-worker.js", pushConfig = {
       trackData: {
         statParams: ["country", "city", "cid"],
